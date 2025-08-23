@@ -45,6 +45,7 @@ JSON exports are downloaded using [DiscordChatExporter](https://github.com/Tyrrr
 
 1. Download the latest GUI version of [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter/releases) - most commonly used is `DiscordChatExporter.win-x64.zip` for 64-bit Windows
 
+
 2. If you want to export threads and forum posts, set `Show threads` option to `All` in the general settings of DiscordChatExporter
 
 ![](docs/dce-show-threads.png)
