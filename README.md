@@ -4,7 +4,6 @@
 
 View and search your [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) exports in a Discord like user interface. [Try a demo in your browser :)](https://dcef.slada.sk/)
 
-
 ## Features
 
 - Familiar Discord-like interface
